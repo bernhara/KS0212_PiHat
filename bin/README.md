@@ -1,1 +1,1 @@
-toto
+- ks0212.sh: a shell wrapper to "gpio" module which maps virtuel "relay" names to "physical IOs"
